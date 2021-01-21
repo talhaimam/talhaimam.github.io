@@ -1156,6 +1156,7 @@ input, select, textarea {
 					margin-left: 0;
 					width: 100%;
 				}
+			#header nav {display:none}
 
 		}
 
