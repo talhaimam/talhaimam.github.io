@@ -1583,7 +1583,13 @@ input, select, textarea {
 				font-size: 0.9em;
 				padding: 0 1.15em;
 			}
-
+			#main .thumb > h2 {
+				border-bottom:none !important;
+			}
+			#main .thumb {
+				text-align: center;
+			}
+			.poptrox-popup .caption {display:block !important;}
 	}
 
 /* Main */
@@ -2057,7 +2063,6 @@ input, select, textarea {
 					-ms-transition-delay: 0.95s;
 					transition-delay: 0.95s;
 				}
-
 		}
 
 /* Footer */
