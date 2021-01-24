@@ -26,7 +26,8 @@
 .fifty{width:50%;}
 .fiftyfive{width:55%;}
 .twenty{width:35%;}
-
+.fa {margin-right: 0.3em;}
+.fa-certificate{color:#fee24a;}
 .video-responsive{
     overflow:hidden;
     padding-bottom:56.25%;
